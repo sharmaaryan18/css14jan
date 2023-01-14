@@ -1,0 +1,17 @@
+#div1 {
+    background-color:red;
+    width: 500px;
+    height: 100px;
+}
+#div2{
+    background-color:rgb(0, 255, 255);
+    width: 10%;
+    height: 10%;
+    margin: 10px;
+    padding: 10px;
+}
+#first-para{
+    background-color:rgb(141, 0, 146);
+    width: 50vw;
+    height: 50vh;
+}
